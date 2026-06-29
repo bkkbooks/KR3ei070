@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR3ei070/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ei070/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 毓麟驗方
+  identifiers:
+    krp: KR3ei070
+  tags:
+    kr-categories: KR3ei
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei070.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei070_000-jc.yaml, hash: 'sha256:37c7f3ee70b4869fa23b0f5cbd4ddac9c01b3a2f430f7ebb9b0f261837450b60'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei070_000-jc.markers.yaml, hash: 'sha256:ef2896561ad265074cb3b946cdf45fe0df2e19d7c7e7dccee7fa99c2ca62ebfd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei070_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 14931
+  label: 正文
+  type: section
+  level: 1
+hash: sha256:c76b5996cd198e3bdd71441b74ae6b9d174f339eb3f124d400fbbafb84bdd4ba
